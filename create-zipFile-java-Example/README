@@ -1,0 +1,6 @@
+# Here is the Java program to sip the multiple files 
+here is the scenario that i have implemented in this example
+
+1. Reading data from Hash Table
+2. create a separate file for  each key value par and named with key
+3. zip all the files into one folder
